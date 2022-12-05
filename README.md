@@ -4,6 +4,7 @@
 - 🔭 I’m currently working at EPAM Anywhere, previously at NTT Data
 - ⚡ Fun fact I like salted caramel
 - 👀 I’m interested in AWS 🌱 I’m currently learning serverless
+- 🍻 Feel thirsty? Try [Reebapp](https://www.reebapp.com/)!
 
 <h3 align="left">Connect with me:</h3>
   <p align="left">
